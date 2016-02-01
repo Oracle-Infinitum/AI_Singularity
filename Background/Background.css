@@ -1,0 +1,42 @@
+﻿body 
+{
+    background: black;
+}
+nav
+{
+    animation-name: FadeIn_2;
+    animation-duration: 8s;
+    float: right;
+    margin-right: 2%;
+    color: dimgray;
+}
+nav ul
+{
+    list-style-type: none;
+}
+nav li
+{
+    display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a:link
+{
+    text-decoration: none;
+    color: white;
+}
+a:visited
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+a:active
+{
+    text-decoration: none;
+    color: white;
+}
